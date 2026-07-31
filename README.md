@@ -16,7 +16,7 @@ Create an immersive music experience on your website with this customizable and 
 
 ## Demo
 
-Explore the live demo [here](https://chamindud.github.io/music-player/).
+Explore the live demo [here](https://chmndu.github.io/music-player/).
 
 ## Credits
 
